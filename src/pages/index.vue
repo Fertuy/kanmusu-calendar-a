@@ -1,7 +1,11 @@
+<script
+  lang="ts"
+  setup
+>
+//
+import AppCalendar from "@/components/AppCalendar.vue";
+</script>
 <template>
-  <HelloWorld />
+  <AppCalendar/>
 </template>
 
-<script lang="ts" setup>
-  //
-</script>
